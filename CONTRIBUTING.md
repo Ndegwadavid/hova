@@ -15,7 +15,7 @@ Thank you for considering contributing to **Hova**! We welcome contributions of 
 
 ---
 
-## How to Contribute 🤝
+## How to Contribute to Hova 🤝
 
 We welcome a wide range of contributions! Here's how you can get involved:
 
